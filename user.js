@@ -1,6 +1,5 @@
 /*jslint devel: true */
 /*jslint browser: true*/
-"use strict";
 function showAlert(message) {
     "use strict";
     document.querySelector("[data-alert]").style.display = "inline-block";
